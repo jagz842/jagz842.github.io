@@ -13,7 +13,7 @@ A modern, responsive portfolio website for Jahangir, a DevOps Engineer & Cloud S
 
 ## Live Demo
 
-Visit the live portfolio at [https://jahangir842.github.io](https://jahangir842.github.io)
+Visit the live portfolio at [https://jagz842.github.io](https://jagz842.github.io)
 
 ## Prerequisites
 
@@ -24,8 +24,8 @@ Visit the live portfolio at [https://jahangir842.github.io](https://jahangir842.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jahangir842/jahangir842.github.io.git
-   cd jahangir842.github.io
+   git clone https://github.com/jagz842/jagz842.github.io.git
+   cd jagz842.github.io
    ```
 
 2. Install dependencies:

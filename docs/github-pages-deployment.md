@@ -49,7 +49,7 @@ Changed the `homepage` field in `package.json` to use a relative path:
 
 ```json
 // Before
-"homepage": "https://jahangir842.github.io/portfolio",
+"homepage": "https://jagz842.github.io/portfolio",
 
 // After
 "homepage": ".",
@@ -95,7 +95,7 @@ git add -A
 git commit -m "Deploy to GitHub Pages"
 
 # Force push to the gh-pages branch
-git push -f git@github.com:jahangir842/portfolio.git main:gh-pages
+git push -f git@github.com:jagz842/portfolio.git main:gh-pages
 
 cd ..
 

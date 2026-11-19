@@ -9,14 +9,14 @@ const Projects: React.FC = () => {
       description: 'Deployed GPU-accelerated local LLM infrastructure using LLaMA.cpp, NVIDIA CUDA, and OpenWebUI for efficient on-premises AI capabilities.',
       techStack: ['NVIDIA CUDA', 'LLaMA.cpp', 'OpenWebUI', 'Docker', 'Python', 'Linux'],
       year: '2024',
-      githubUrl: 'https://github.com/jahangir842/llm-deployment'
+      githubUrl: 'https://github.com/jagz842/llm-deployment'
     },
     {
       title: 'Multi-Cloud Infrastructure as Code',
       description: 'Developed comprehensive IaC templates for AWS and Azure using Terraform and Ansible for consistent, version-controlled infrastructure deployment.',
       techStack: ['Terraform', 'Ansible', 'AWS', 'Azure', 'GitHub Actions', 'Bash'],
       year: '2023',
-      githubUrl: 'https://github.com/jahangir842/multi-cloud-iac'
+      githubUrl: 'https://github.com/jagz842/multi-cloud-iac'
     },
     {
       title: 'MLOps Pipeline for AI Research',

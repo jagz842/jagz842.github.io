@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col items-center md:items-end">
             <div className="flex gap-4 mb-4">
               <a 
-                href="https://github.com/jahangir842" 
+                href="https://github.com/jagz842"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-white transition-colors duration-300"

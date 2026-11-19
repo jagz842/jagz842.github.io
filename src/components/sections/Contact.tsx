@@ -139,8 +139,8 @@ const Contact: React.FC = () => {
     {
       icon: <Github size={20} />,
       title: 'GitHub',
-      value: 'github.com/jahangir842',
-      link: 'https://github.com/jahangir842',
+      value: 'github.com/jagz842',
+      link: 'https://github.com/jagz842',
     },
     {
       icon: <Linkedin size={20} />,
